@@ -1,0 +1,6 @@
+{
+  "name": "zmq_playground",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT"
+}
